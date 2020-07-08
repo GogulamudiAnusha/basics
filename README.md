@@ -27,7 +27,7 @@
 <ins>anusha</ins><br>
 <sub>anusha</sub><br>
 <sup>anusha</sup><br>
-<table style="border:solid" , border="1">
+<table border="1">
 	<thead>
 	<th>first name</th>
 	<th>last name</th>
