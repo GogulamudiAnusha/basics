@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+<DOCTYPE html>
+	<html>
+<head>
+	<title>web design online</title>html>
+</head>
+<body bgcolor="pink">	
+	<h1>welcome to apssdc</h1>
+	<h2>HTML</h2>
+	<h3>HTML</h3>
+	<h5>hyper text markup language</h5>
+	<p><span>anusha</span></p>
+	<img src="1.png" width="20%" height="40%">
+	<br>
+	<br>
+	<img src="1.png"width="50%" height="50%">
+<p><h1><b>On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.</b> When you create pictures, charts, or diagrams, they also coordinate with your current document look.<span style="color: green"> You can easily change the formatting of selected text in the document text by choosing a look for the selected text from the Quick Styles gallery on the Home tab. You can also format text directly by using the other controls on the Home tab. Most controls offer a choice of using the look from the current theme or using a format that you specify directly.</span> To change the overall look of your document, choose new Theme elements on the Page Layout tab. To change the looks available in the Quick Style gallery, use the Change Current Quick Style Set command.<I> Both the Themes gallery and the Quick Styles gallery provide reset commands so that you can always restore the look of your document to the original contained in your current template.</I> On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document</h1></p>
+<br><br>
+<p><h5>You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks. <U>When you create pictures, charts, or diagrams, they also coordinate with your current document look.</U> You can easily change the formatting of selected text in the document text by choosing a look for the selected text from the Quick Styles gallery on the Home tab.<span style="color:red"> You can also format text directly by using the other controls on the Home tab. Most controls offer a choice of using the look from the current theme or using a format that you specify directly. To change the overall look of your document, choose new Theme elements on the Page Layout tab. To change the looks available in the Quick Style gallery, use the Change Current Quick Style Set command. </span>Both the Themes gallery and the Quick Styles gallery provide reset commands so that you can always restore the look of your document to the original contained in your current template. <dd>On the Insert tab, the galleries include items that are designed to coordinate with the overall look of your document. </dd>You can use these galleries to insert tables, headers, footers, lists, cover pages, and other document building blocks.</h5></p>
 
-You can use the [editor on GitHub](https://github.com/GogulamudiAnusha/basics/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<span style="color:blue">Anusha</span>
+<a href="https://www.apssdc.in/home/">click me</a><br>
+<strong>anusha</strong><br>
+<small>anusha</small><br>
+<big>anusha</big><br>
+<em>anusha</em><br>
+<del>anusha</del><br>
+<ins>anusha</ins><br>
+<sub>anusha</sub><br>
+<sup>anusha</sup><br>
+<table style="border:solid" , border="1">
+	<thead>
+	<th>first name</th>
+	<th>last name</th>
+</thead>
+<tr>
+	<td>g</td>
+	<td>anusha</td>
+</tr>
+<tr>
+	<td>g</td>
+	<td>anusha</td>
+</tr>
+<tr>
+	<td>g</td>
+	<td>anusha</td>
+</tr>
+<tr>
+	<td>g</td>
+	<td>anusha</td>
+</tr>
+<tr>
+	<td>g</td>
+	<td>anusha</td>
+</tr>
+</table>
+	
+	
+</body>
+</html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GogulamudiAnusha/basics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
